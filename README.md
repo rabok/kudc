@@ -1,6 +1,6 @@
 # kudc
 
-A new Flutter project.
+A public speaking and debate app
 
 ## Getting Started
 
